@@ -17,6 +17,7 @@ Worksheets Rest Client is not an open source project, but it was built with a nu
  - **[ElectronJS](https://www.electronjs.org/)**: Build cross platform desktop apps with JavaScript, HTML, and CSS
 
 ## Download latest Electron desktop version from release folder:
- - 
+https://github.com/FalconSoft/worksheets-rest-client/releases/latest
+
 ## License
 Worksheets Rest Client is a free dev tool and is a part of low code datamanagement platform - https://worksheet.systems.
