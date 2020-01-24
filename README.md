@@ -3,7 +3,8 @@
 A desktop version of Worksheets Rest Client - https://worksheet.systems/rest-client - A simple yet robust REST API Client with excel-like data visualizations and scripting automations
 
 Core features what differentiate us:
-- **A rich data visualization**. Leverage a excel-like data grids, Object Explorer and charts to present your informations at all levels.  - **Integrated JSPython Scripting**. Use our integrated Python scripting for any of your data transformation, analysis or testing tasks.
+- **A rich data visualization**. Leverage a excel-like data grids, Object Explorer and charts to present your informations at all levels.
+- **Integrated JSPython Scripting**. Use our integrated Python scripting for any of your data transformation, analysis or testing tasks.
 - **Performance.**. We can gracely visualize a large responses
 - **Share & Collaborate** Create an appealing user stories and share it with the world. Via hosted version at https://run.worksheet.systems/rest-client
 
